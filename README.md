@@ -15,7 +15,9 @@ Microsoft Visual C++ 2005-2008-2010-2012-2013-2017 **для x86** (www.computer-
 Microsoft Visual C++ 2005-2008-2010-2012-2013-2017 **для x64** (www.computer-setup.ru/distr/VCR_Hyb_x64_10.03.2017.rar).
 
 3. Java Runtime Environment уже есть в папке DSS.
-4. Описание DSS от производителя: см. ссылки.
+4. Описание DSS от производителя: 
++ "Debug Server Scripting"	https://software-dl.ti.com/ccs/esd/documents/users_guide_legacy/sdto_dss_handbook.html
++ "Debug Server Scripting (DSS) Fundamentals Workshop"	https://software-dl.ti.com/ccs/esd/training/workshop/ccsv9/dss_fundamentals_workshop.html
 5. Описание содержимого некоторых папок DSS: 
 **\[корневая папка DSS]\\scripting\\bin**
 Пакетный файл
